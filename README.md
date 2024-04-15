@@ -1,4 +1,4 @@
-<hr>
+
 # Discord Moderation Bot
 This bot was coded by Arda. It's a public moderation bot.
 
